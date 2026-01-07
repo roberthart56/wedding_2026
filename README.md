@@ -2,9 +2,8 @@ Wedding Arbors!
 
 Below, built with dimensioned lumber.  4x4's and 2x6's.  
 
-<figure>
-<img src="./img/lumber_1.jpg" width="200" alt="led"/><img src="./img/lumber_2.jpg" width="200" alt="led"/>
-</figure>
+<img src="./img/lumber_1.jpg" width="300" alt="led"/>
+<img src="./img/lumber_2.jpg" width="300" alt="led"/>
 
 Below, thinking about using recycled beams of about the same dimension, but not as regular.
 
