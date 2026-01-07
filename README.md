@@ -4,6 +4,16 @@ In the garden at Matt and Liz's house is this arbor.  It might make sense to dra
 
 ![arbor](./img/arbor_brooksville.jpg)
 
+Hhere are some designs, generated in the CAD program Onshape:
+
+| | | |
+|---|---|---|
+| ![1](./img/design1.png) | ![2](./img/design2.png) | ![3](./img/design3.png) |
+
+
+
+
+
 Below, built with dimensioned lumber.  4x4's and 2x6's.  
 
 | | |
