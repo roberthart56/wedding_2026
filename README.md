@@ -2,6 +2,11 @@ Wedding Arbors!
 
 Below, built with dimensioned lumber.  4x4's and 2x6's.  
 
+| | |
+|---|---|
+| ![1](./img/lumber_1.jpg) | ![2](./img/lumber_2.jpg) |
+
+
 <img src="./img/lumber_1.jpg" width="300" alt="led"/>
 <img src="./img/lumber_2.jpg" width="300" alt="led"/>
 
