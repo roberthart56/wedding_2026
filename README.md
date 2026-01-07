@@ -1,4 +1,8 @@
-Wedding Arbors!
+### Wedding Arbors!
+
+In the garden at Matt and Liz's house is this arbor.  It might make sense to draw some features of this into our arbor at the wedding site.  
+
+![arbor](./img/arbor_brooksvillle.jpg)
 
 Below, built with dimensioned lumber.  4x4's and 2x6's.  
 
