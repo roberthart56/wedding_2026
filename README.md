@@ -1,5 +1,9 @@
 ### Wedding Arbors!
 
+One hope is to grow some vines that could be planted at the site, as the arbor is installed in May.  The picture below is of moonflower in Arlington on Sept 24. There might be enough rain and sun in the summer to grow some moon flowers and scarlet runner beans in Brooksville if we get an early start in buckets at home in April.
+
+![vine](./img/vine.jpg)
+
 In the garden at Matt and Liz's house is this arbor.  It might make sense to draw some features of this into our arbor at the wedding site.  
 
 ![arbor](./img/arbor_brooksville.jpg)
