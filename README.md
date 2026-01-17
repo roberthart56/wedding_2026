@@ -42,10 +42,9 @@ This is what is might look like to use parts of trees.
 | ![1](./img/sticks_diag.jpg) | ![2](./img/sticks_front.jpg) |
 
 
-Here, I've constructed 3.5"x3.5" board from recycled pallet lumber, and added a recycled cedar top piece.  Oil stains, various shades and  strengths to see what it would look like.
+Here, I've constructed 3.5"x3.5" board from recycled pallet lumber, and added a recycled cedar top piece.  Oil stains, various shades and  strengths to see what it would look like.  The stain on the closeup is 5:1 chestnut:walnut, thinned.
 
 | | | |
-|---|---|---|
 | ![1](./img/recycled00.jpg) | ![1](./img/recycled01.jpg) | ![1](./img/recycled02.jpg) |
 
 
